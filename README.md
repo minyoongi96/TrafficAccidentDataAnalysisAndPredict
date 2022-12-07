@@ -8,9 +8,7 @@
 예측 모델 구축
 데이터 전처리
 데이터 수집
-데이터 시각화 
-| 데이터 수집
-데이터 전처리
+데이터 시각화 | 데이터 수집 데이터 전처리
 발표 자료 준비
 프로젝트 발표 |
 | https://github.com/minyoongi96 | https://github.com/gunbamkim |
